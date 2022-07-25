@@ -26,9 +26,8 @@ In the upcomming sessions, we will discuss the followings.
 
 
 
-### To participate
-
----
+To participate
+--------------------
 
 * We always welcome enthusiastists who wants to share insights and make steep learning curve.
 * If you are interested, please contact [Kunwoo](jamongna@gmail.com).
